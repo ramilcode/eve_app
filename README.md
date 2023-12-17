@@ -32,11 +32,11 @@ Install Flutter on your device, go to /src/eve_app and type **"flutter pub get"*
 ![win2](./images/win2.PNG)
 ![win3](./images/win3.PNG)
 
-### Web (local) :
+### Web (local, on chrome) :
 ![weblocal1](./images/weblocal1.PNG)
 ![weblocal2](./images/weblocal2.PNG)
 ![weblocal3](./images/weblocal3.PNG)
 
-### Web (local) :
+### Web (hosted on github pages, on firefox, backend needs to enable CORS) :
 ![webgit1a](./images/webgit1a.PNG)
 ![webgit1b](./images/webgit1b.PNG)
