@@ -18,3 +18,24 @@ The source files are located inside /evo_app/src
 
 ### To debug the project :
 Install Flutter on your device, go to /src/eve_app and type **"flutter pub get"** inside your terminal.
+
+## Images :
+
+### Android :
+![android1](./images/android1.png)
+![android2](./images/android2.png)
+![android3](./images/android3.png)
+
+### Windows :
+![win1](./images/win1.png)
+![win2](./images/win2.png)
+![win3](./images/win3.png)
+
+### Web (local) :
+![weblocal1](./images/weblocal1.png)
+![weblocal2](./images/weblocal2.png)
+![weblocal3](./images/weblocal3.png)
+
+### Web (local) :
+![webgit1a](./images/webgit1a.png)
+![webgit1b](./images/webgit1b.png)
