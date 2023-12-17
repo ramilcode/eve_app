@@ -1,5 +1,6 @@
 # Event-Invites App by Ramil K.
 This repository contains the release files and the source files of this app.
+*The app has a light and dark mode.*
 
 ## Release files :
 The source files are located inside /evo_app/release
@@ -22,20 +23,20 @@ Install Flutter on your device, go to /src/eve_app and type **"flutter pub get"*
 ## Images :
 
 ### Android :
-![android1](https://github.com/ramilcode/eve_app/blob/main/images/android1.png)
-![android2](https://github.com/ramilcode/eve_app/blob/main/images/android2.png)
-![android3](https://github.com/ramilcode/eve_app/blob/main/images/android3.png)
+![android1](./images/android1.PNG)
+![android2](./images/android2.PNG)
+![android3](./images/android3.PNG)
 
 ### Windows :
-![win1](https://github.com/ramilcode/eve_app/blob/main/images/win1.png)
-![win2](https://github.com/ramilcode/eve_app/blob/main/images/win2.png)
-![win3](https://github.com/ramilcode/eve_app/blob/main/images/win3.png)
+![win1](./images/win1.PNG)
+![win2](./images/win2.PNG)
+![win3](./images/win3.PNG)
 
 ### Web (local) :
-![weblocal1](https://github.com/ramilcode/eve_app/blob/main/images/weblocal1.png)
-![weblocal2](https://github.com/ramilcode/eve_app/blob/main/images/weblocal2.png)
-![weblocal3](https://github.com/ramilcode/eve_app/blob/main/images/weblocal3.png)
+![weblocal1](./images/weblocal1.PNG)
+![weblocal2](./images/weblocal2.PNG)
+![weblocal3](./images/weblocal3.PNG)
 
 ### Web (local) :
-![webgit1a](https://github.com/ramilcode/eve_app/blob/main/images/webgit1a.png)
-![webgit1b](https://github.com/ramilcode/eve_app/blob/main/images/webgit1b.png)
+![webgit1a](./images/webgit1a.PNG)
+![webgit1b](./images/webgit1b.PNG)
